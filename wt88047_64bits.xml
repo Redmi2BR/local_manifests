@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" revision="lineage-15.1" />
+
+  <project name="Redmi2BR/android_device_wingtech_wt88047_64" path="device/wingtech/wt88047_64" remote="github" revision="lineage-15.1-64" />
+  <project name="Redmi2BR/android_kernel_wingtech_msm8916_64" path="kernel/wingtech/msm8916_64" remote="github" revision="lineage-15.1-64" />
+  <project name="Redmi2BR/proprietary_vendor_wingtech64" path="vendor/wingtech64/wt88047_64" remote="github" revision="lineage-15.1-64" />
+</manifest>
